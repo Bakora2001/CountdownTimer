@@ -10,6 +10,17 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     height: 100vh;
-    background-size: ;
-    
+    flex-direction: column;  
+}
+.countdown-container{
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+    margin-top: 10px;
+}
+h1{
+    text-align: center;
+    font-size: 4rem;
+    justify-content: center;
+    padding: 20px;
 }
