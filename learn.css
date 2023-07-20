@@ -21,17 +21,20 @@ body{
 h1{
     text-align: center;
     font-size: 4rem;
+    font-weight: normal;
     justify-content: center;
     padding: 20px;
+    margin-top: 5rem;
 }
 .big-text{
     font-size: 6rem;
     line-height: 1;
     margin: 0 2rem;
+    font-weight: bold;
 }
 .countdown-el{
     text-align: center;
 }
 .countdown-el span{
-
+    font-size: 1.4rem;
 }
